@@ -231,4 +231,7 @@ source "drivers/trusty/Kconfig"
 
 source "techpack/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
